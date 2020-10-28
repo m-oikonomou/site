@@ -1,24 +1,18 @@
-[submodule "images"]
-	path = images
-    url = https://github.com/m-oikonomou/images.git
-    branch = master
 [submodule "_gallery"]
 	path = _gallery
 	url = https://github.com/m-oikonomou/_gallery.git
-	branch = master
-[submodule "_includes/extras"]
-	path = _includes/extras
-	url = https://github.com/m-oikonomou/extras.git
-	branch = master
-[submodule "_quotes"]
-	path = _quotes
-	url = https://github.com/m-oikonomou/_quotes.git
-	branch = master
+[submodule "images"]
+	path = images
+	url = https://github.com/m-oikonomou/images.git
 [submodule "_notes"]
 	path = _notes
 	url = https://github.com/m-oikonomou/notes.git
-	branch = master
-[submodule "_bibliography"]
-	path = _bibliography
+[submodule "bibliography"]
+	path = bibliography
 	url = https://github.com/m-oikonomou/bibliography.git
-	branch = master
+[submodule "_quotes"]
+	path = _quotes
+	url = https://github.com/m-oikonomou/_quotes.git
+[submodule "_includes/extras"]
+	path = _includes/extras
+	url = https://github.com/m-oikonomou/extras.git
