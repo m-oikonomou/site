@@ -1,14 +1,14 @@
-[submodule "_gallery"]
-	path = _gallery
-	url = https://github.com/m-oikonomou/_gallery.git
 [submodule "images"]
 	path = images
 	url = https://github.com/m-oikonomou/images.git
+[submodule "_gallery"]
+	path = _gallery
+	url = https://github.com/m-oikonomou/_gallery.git
 [submodule "_notes"]
 	path = _notes
 	url = https://github.com/m-oikonomou/notes.git
-[submodule "bibliography"]
-	path = bibliography
+[submodule "_bibliography"]
+	path = _bibliography
 	url = https://github.com/m-oikonomou/bibliography.git
 [submodule "_quotes"]
 	path = _quotes
