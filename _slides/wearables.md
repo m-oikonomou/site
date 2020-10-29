@@ -8,5 +8,5 @@ slides:
   - google-glass
   - apple-smartwatch
   - wristwatch-computer-mann
-  - steve-mann-wearable-computer
+  - kickstarter-pebble
 ---
