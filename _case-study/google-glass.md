@@ -9,7 +9,7 @@ tags:
   - google glass
   - wearables
 gallery:
-  - image_url: /images/google-glass.png
+  - image_url: /images/google-glass-thumb.png
     caption: "Τα γυαλιά Google Glass αποτελούν παράδειγμα φορετής συσκευής με έμφαση στην επαυξημένη πραγματικότητα και επιδικνύουν την εξέλιξη του διάχυτου υπολογισμού."
 ---
 
