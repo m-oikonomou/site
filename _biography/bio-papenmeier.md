@@ -9,3 +9,13 @@
 Τέσσερα χρόνια ύστερα από συτή την ανακάλυψη, στον Papenmeier αποδόθηκε το βραβείο “Louis Braille” με αφορμή την ανακάλυψη του Braillex, το οποίο, σήμερα, αποτελεί έκθεμα στο μουσείου του Μοναχού ως ορόσημο στην ανάπτηξη της τεχνολογίας για τυφλούς. Αργότερα, ο  Papenmeier σχεδίασε και δημιούργησε νέες οθόνες Braille, οι οποίες είχαν την δυνατότητα σύνδεσης σε ηλεκτρονικούς υπολογιστές [5]. 
 
 Η εφεύρεση Braillex γνώρισε μεγάλη αποδοχή στον ψηφιακό κόσμο. Το 1999 ο  Papenmeier τιμήθηκε με ένα νέο δίπλωμα ευρεσιτεχνίας για την ενσωμάτωση μιας ειδικής γραμμής πλοήγησης στην οθόνη Braille, η οποία επέτρεπε στις λειτουργίες του πληκτρολογίου να ενεργμοποιούνται με τον ίδιο τρόπο όπως το ποντίκι [4]. 
+
+
+
+**Βιβλιογραφία**
+
+>[1] [https://waz.trauer.de/traueranzeige/friedrichhorst-papenmeier] (https://waz.trauer.de/traueranzeige/friedrichhorst-papenmeier) <br>
+>[2] [https://www.papenmeier.de/en/about-us/milestones.html] (https://www.papenmeier.de/en/about-us/milestones.html) <br>
+>[3] [https://www.daidalos.blog/erfindungen/erfindungen-fuer-die-industrie/artikel/lumistar/] (https://www.daidalos.blog/erfindungen/erfindungen-fuer-die-industrie/artikel/lumistar/) <br>
+>[4] [https://www.daidalos.blog/erfindungen/erfindungen-fuer-den-alltag/artikel/braillex/] (https://www.daidalos.blog/erfindungen/erfindungen-fuer-den-alltag/artikel/braillex/) <br>
+>[5] [https://www.papenmeier-rehatechnik.de/en/about_us_milestones.html] (https://www.papenmeier-rehatechnik.de/en/about_us_milestones.html)
