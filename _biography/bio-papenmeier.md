@@ -14,8 +14,8 @@
 
 **Βιβλιογραφία**
 
->[1] [https://waz.trauer.de/traueranzeige/friedrichhorst-papenmeier] (https://waz.trauer.de/traueranzeige/friedrichhorst-papenmeier) <br>
->[2] [https://www.papenmeier.de/en/about-us/milestones.html] (https://www.papenmeier.de/en/about-us/milestones.html) <br>
->[3] [https://www.daidalos.blog/erfindungen/erfindungen-fuer-die-industrie/artikel/lumistar/] (https://www.daidalos.blog/erfindungen/erfindungen-fuer-die-industrie/artikel/lumistar/) <br>
->[4] [https://www.daidalos.blog/erfindungen/erfindungen-fuer-den-alltag/artikel/braillex/] (https://www.daidalos.blog/erfindungen/erfindungen-fuer-den-alltag/artikel/braillex/) <br>
->[5] [https://www.papenmeier-rehatechnik.de/en/about_us_milestones.html] (https://www.papenmeier-rehatechnik.de/en/about_us_milestones.html)
+>[1] [https://waz.trauer.de/traueranzeige/friedrichhorst-papenmeier](https://waz.trauer.de/traueranzeige/friedrichhorst-papenmeier) <br>
+>[2] [https://www.papenmeier.de/en/about-us/milestones.html](https://www.papenmeier.de/en/about-us/milestones.html) <br>
+>[3] [https://www.daidalos.blog/erfindungen/erfindungen-fuer-die-industrie/artikel/lumistar/](https://www.daidalos.blog/erfindungen/erfindungen-fuer-die-industrie/artikel/lumistar/) <br>
+>[4] [https://www.daidalos.blog/erfindungen/erfindungen-fuer-den-alltag/artikel/braillex/](https://www.daidalos.blog/erfindungen/erfindungen-fuer-den-alltag/artikel/braillex/) <br>
+>[5] [https://www.papenmeier-rehatechnik.de/en/about_us_milestones.html](https://www.papenmeier-rehatechnik.de/en/about_us_milestones.html)
